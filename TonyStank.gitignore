@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Hardware Identification Chart</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+	<style>
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+}
+body {
+    background-image: url("http://www.digitalrevolutions.biz/wp-content/uploads/2009/07/blue_line_background.jpg");
+    background-repeat: repeat;
+}
+	</style>
+  </head>
+<body>
+
+<div class="container">
+  <div class="jumbotron">
+    <h1>Hardware Chart</h1>      
+    <p>5 Pieces of Hardware</p>
+  </div>    
+</div>
+<table style="width:100%">
+  <tr>
+    <th>Image</th>
+    <th>Name</th>		
+    <th>Discription</th>
+  </tr>
+  <tr>
+    <td><img src="C:\Users\Alex\Desktop\Pictures for Hardware Identification Chart\DiskdriveRainbow.png" style="width: 400px; height: 200px;"></td>
+    <td>Disk Drive</td>		
+    <td>The disk drve a part in the computer that reads disks.</td>
+  </tr>
+  <tr>
+    <td><img src="C:\Users\Alex\Desktop\Pictures for Hardware Identification Chart\PCU_card.png" style="width: 400px; height: 200px;"></td>
+    <td>RAID Controller</td>		
+    <td>RAID stands for redundant array of independant disks.</td>
+  </tr>
+  <tr>
+    <td><img src="C:\Users\Alex\Desktop\Pictures for Hardware Identification Chart\We are low on snack bar.PNG" style="width: 400px; height: 200px;"></td>
+    <td>Motherboard</td>		
+    <td>A motherboard is the main part of a computer, that is also where everything is processed by the cpu (central processing unit).</td>
+  </tr>
+	<tr>
+	<td><img src="C:\Users\Alex\Desktop\Pictures for Hardware Identification Chart\POWWER SUPPLY.PNG" style="width: 400px; height: 200px;"></td>
+	<td>Power Supply</td>
+	<td>The power supply is a part that takes in electricity to power the computer.</td>
+  </tr>
+  <tr>
+	<td><img src="C:\Users\Alex\Desktop\Pictures for Hardware Identification Chart\Titanx Graphics Card.PNG" style="width: 400px; height: 200px;"></td>
+	<td>Graphics Card</td>
+	<td>The graphics card is a part that calcilates things that the cpu can't handle.</td>
+  </tr>
+</table>
+
+</body>
+</html>
